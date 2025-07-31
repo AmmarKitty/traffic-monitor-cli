@@ -3,7 +3,7 @@ This script has not been tested on linux, so you may have to change the "libcmdc
 Also not sure if psutil works on linux
 
 ### For further modifications you can do the following:
-- `psutil.net_io_connections().items()` also has `errin` and `errout` to check number of errors while sending or recieving data `follow psutil site for more` [documnetaion](https://psutil.readthedocs.io/en/latest/)
+- `psutil.net_io_connections().items()` also has `errin` and `errout` values which can be used to check number of errors while sending or recieving data `follow psutil site for more` [documnetaion](https://psutil.readthedocs.io/en/latest/)
 - The previous connection module also have the `dropin` and `dropout` functions to check the total number of dropped packets
 - The Programm has not been converted to an exutable which can be done using built-in library `pyinstaller` or by installing `auto-py-to-exe`
 - `Pandas` Also can be used to neatly format the output
