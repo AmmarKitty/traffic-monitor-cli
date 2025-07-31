@@ -1,6 +1,6 @@
 Warning:
-This script has not been tested on linux, so you may have to change the "libcmdctrl" to be able to run the cmd cursor modefier on linux
-Also not sure if psutil works on linux
+    This script has not been tested on linux, so you may have to change the "libcmdctrl" to be able to run the cmd cursor modefier on linux
+    Also not sure if psutil works on linux
 
 For further modifications you can do the following:
     1- psutil.net_io_connections().items() also has "errin" and "errout" to check number of errors while sending or recieving data
