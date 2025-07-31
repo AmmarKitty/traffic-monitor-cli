@@ -19,6 +19,6 @@ The script has not been tested on linux
 ## For Mac:
 Same as linux
 
-This script is not genuin, there can be another tools like this online, but integrity counts
+This script is not genuin, there can be other tools like this online, but integrity counts
 
 <ins>More documentaion, or code modification can be added in the future</ins>
