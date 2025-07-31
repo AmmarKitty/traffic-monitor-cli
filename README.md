@@ -1,4 +1,4 @@
-Warning:
+# Warning:
     This script has not been tested on linux, so you may have to change the "libcmdctrl" to be able to run the cmd cursor modefier on linux
     Also not sure if psutil works on linux
 
